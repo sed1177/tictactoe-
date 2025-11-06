@@ -24,3 +24,7 @@ I learned how to set win conditions using a matrix (multi dimensional array) in 
 Take a look at my project via image!
 
 ![tictactoe image](tictactoe.png)
+
+## Link To Project
+
+[Live Link](https://tictaccccctoeeeeeee.netlify.app/)
