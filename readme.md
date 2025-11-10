@@ -23,4 +23,4 @@ Take a look at my project via image!
 
 ## Link To Project
 
-[Live Link](https://tictaccccctoeeeeeee.netlify.app/)
+[Live Link](https://tictactoe-wvve.onrender.com/)
