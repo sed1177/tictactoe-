@@ -1,10 +1,6 @@
 # My Tic Tac Toe Project
 This project is a game of Tic Tac Toe. Get 3 in a row either in a column, row, or diagnolly and you win!
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, and JavaScript
